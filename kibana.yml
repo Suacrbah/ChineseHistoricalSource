@@ -1,0 +1,6 @@
+server.name: kibana
+server.host: "0"
+elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+elasticsearch.username: elastic
+elasticsearch.password: changeme
+kibana.defaultAppId: dashboard/7847c610-3b0f-11eb-bd6d-934d57bf2bb6
